@@ -141,5 +141,9 @@ R software was used to explore the association between methylation level and exp
 #### others
 1. We used ELMER32 for understanding which transcription factors are regulated upon perturbations from regulatory regions. Briefly, this method is based on initially identifying differentially methylated distal probes and predicting enriched motifs across them. 
 
+### General Workflow
+
+
+
 
 
