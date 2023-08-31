@@ -1,6 +1,9 @@
 # awesome methylation with expression
 Methylation :tw-1f493: Expression
 
+### General workflow
+![general workflow](img/workflow.png)
+
 ### Paper list
 
 1. (Integrated single-cell RNA-seq and DNA methylation reveal the effects of air pollution in patients with recurrent spontaneous abortion)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9400245/] (code)[] (data)[]
